@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.main-heading {
+  margin: 0 auto;
+  font-Size: 1.8rem;
+  font-Weight: bold;
+}
+
+table {
+  margin: 0 auto;
+  border: 1px solid;
+  border-collapse: collapse;
+}
